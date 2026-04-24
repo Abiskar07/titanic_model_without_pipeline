@@ -1,0 +1,54 @@
+
+# Python basics
+
+__pycache__/
+*.py[cod]
+*.so
+
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+
+# Jupyter notebooks
+
+.ipynb_checkpoints/
+
+
+# Dataset files
+
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+
+
+
+# scikit-learn models
+
+*.pkl
+*.joblib
+
+
+# Outputs & experiments
+
+outputs/
+results/
+logs/
+
+
+# IDE settings
+
+.vscode/
+.idea/
+
+
+# Temporary files
+
+*.log
+*.tmp
+*.cache
